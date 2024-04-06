@@ -18,6 +18,11 @@ tags:
 
 1. `bundle exec jekyll serve`
 
+### 2024-4-5(academic pages)
+> 参考链接
+> 
+> [学术主页参数](https://www.zhihu.com/question/29229065/answer/2359311524)
+
 ### 2024-4-4(picture bed)
 
 1. 使用picgo，图床使用github
