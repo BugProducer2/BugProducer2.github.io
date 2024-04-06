@@ -9,6 +9,9 @@ tag:
     - courses
 ---
 
+## 知识点
+[课堂上的一个证明](https://zhuanlan.zhihu.com/p/597365345)
+
 
 ## 强调考点
 

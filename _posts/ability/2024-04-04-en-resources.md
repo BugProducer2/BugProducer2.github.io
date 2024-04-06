@@ -19,3 +19,15 @@ A[toilet paper] -->B(paper towels)
 ```
 
 > dine and dash & smash and grab burglaries
+
+
+
+## culture
+
+> Chinese polite-fight 
+>
+> you're never supposed to give in.
+>
+> these things can get hell intense.
+>
+
