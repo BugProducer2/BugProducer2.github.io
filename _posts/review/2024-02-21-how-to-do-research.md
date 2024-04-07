@@ -12,6 +12,10 @@ tag:
 
 
 
+
+
+
+
 ## 找热点方向
 
 （95%的方向）
@@ -55,6 +59,12 @@ tag:
 **step 3：**熟练以上步骤
 
 
+
+
+
+## Gartner hype cycle
+
+![image-20240407131504497](https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240407131504497.png)
 
 `task:`
 
