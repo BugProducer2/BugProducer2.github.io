@@ -9,6 +9,14 @@ tag:
     - IELTS
 ---
 
+## abbr.
+
+`SoK`:Systematization of Knowledge Papers 
+
+`i.e.`:id est，that is
+
+
+
 ## hygiene
 
 ```mermaid
