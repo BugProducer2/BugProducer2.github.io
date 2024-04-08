@@ -18,7 +18,22 @@ tags:
 
 1. `bundle exec jekyll serve`
 
+### 2024-4-7（github 学生认证
+
+`踩坑1`：jpg提交之后还在原界面
+
+解决策略：图片名称修改为student ID card 
+
+`踩坑2`：拍照用后置摄像头显示一篇黑色
+
+解决策略：是的就是这么神奇（~神金~），他就是只允许你用前置摄像头。
+
+> [how](https://www.ghostchu.com/394/github-education/)
+
+
+
 ### 2024-4-5(academic pages)
+
 > 参考链接
 > 
 > [学术主页参数](https://www.zhihu.com/question/29229065/answer/2359311524)
