@@ -3,7 +3,7 @@ title: 'How to step into a new field'
 subtitle: '科研方向'
 layout: post
 date: 2024-02-21
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tag: 
     - review

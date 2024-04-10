@@ -9,6 +9,18 @@ tag:
     - record
 ---
 
+`提升英语`
+
+> 主要还是多交流多练习。我刚来澳洲的时候，英语很差，基本就简单的单词+笨拙的手势比划。但是我坚持不断地和老外交流，现在已经可以很流畅地比各种手势了。
+
+`中英文混说`
+
+> Jenifer,晚上跟global的会改到明天早晨7点了。你记得reschedule下，还有换个大点的meeting room，因为这次Finance的Eric, HR的Susan也要参加。还有提前把要讲的topic再go through一遍，辛苦跟Laura说下会上帮忙记下meeting minutes。So far我就想起这么多，如果有新的update我在跟你sync
+
+> 坐在自家车后座，车窗打不开，跟老公说：把后窗的权限给我开一下
+
+> 之前某任主管把这习惯带到生活中，被家里人说过很多次都改不了，有次他女儿迷路了，打电话让他去救（应该是2010年左右），他嘴一秃噜：你现在的痛点是什么？他女儿气疯了：我现在迷路了你居然问我痛点是什么！！！
+
 `冷脸洗内裤`
 
 > 前提是昨天他单方面闹矛盾
@@ -45,6 +57,23 @@ tag:
 
 > 领导让我把十几袋中药放进冰箱里面，我不知道为啥给放进了急冻，全部冻成冰了，第二天她喝药我看到他在用微波炉解冻
 
+> 搜遍全网都是被领导说丑的
+> 哪有领导说自己丑的
+> 前因是领导日常比较爱岗敬业
+> 导致这个头发状态就是比较不乐观
+> 今天突然心情舒畅想到这个
+> 小陈啊……那个假山蛮好看的……来帮我拍个照（他要换头像）
+> 这一拍心情八成是有点瓢泼大雨了
+> 这下彻底在楼上认真办公也不到处瞎溜达了
+> 有一颗男人的心偷偷的碎了
+> 该嘶 到底怎么回
+>
+> <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240410172924508.png" alt="image-20240410172924508" style="zoom: 25%;" />
+>
+> <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240410172948015.png" alt="image-20240410172948015" style="zoom:25%;" />
+>
+> 正经：哈哈您太谦虚啦，咱们都是正常长相，人贵内在，论才能您可是我的榜样呀
+
 `有味道`
 
 > 曾经和暧昧对象（同事）去泡温泉，在水里含情脉脉对视的时候我放屁了，一串气泡🫧从我后背升起，天知道我当时如何做到在水里如何坚决踏步往前走不回头的。再也没回去上班，本来也不是什么好工作
@@ -56,3 +85,21 @@ tag:
 > Is it gluten free". 
 >
 > " hmmm it's gluten only "
+
+`class`
+
+> 老师说他以前上大学的时候，默认前两排是给女生做的。
+
+
+
+`氛围感的神`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240409162436429.png" alt="image-20240409162436429" style="zoom: 50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240409162507992.png" alt="image-20240409162507992" style="zoom: 50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240409162523676.png" alt="image-20240409162523676" style="zoom: 50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240409162601438.png" alt="image-20240409162601438" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240409162634919.png" alt="image-20240409162634919" style="zoom:50%;" />

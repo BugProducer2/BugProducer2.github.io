@@ -16,7 +16,7 @@ tags:
 
 ### 网站本地部署
 
-1. `bundle exec jekyll serve`
+1. `bundle exec jekyll serve -l`
 
 ### 2024-4-7（github 学生认证
 
@@ -24,7 +24,7 @@ tags:
 
 解决策略：图片名称修改为student ID card 
 
-`踩坑2`：拍照用后置摄像头显示一篇黑色
+`踩坑2`：拍照用后置摄像头显示一片黑色
 
 解决策略：是的就是这么神奇（~神金~），他就是只允许你用前置摄像头。
 
