@@ -3,7 +3,7 @@ title: 'LLM Literature Review'
 subtitle: 'Large language model'
 layout: post
 date: 2024-03-31
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-halting.jpg"
 catalog: true
 tag: 
     - review
@@ -70,7 +70,7 @@ tag:
 
 > Session 20: Machine Learning Attacks II
 
-> #### Session 26: Federated Learning 
+> Session 26: Federated Learning 
 >
 > 多个检测指标来对 poison-attack-assistant 模型更新,新型联邦学习(FL)架构
 
