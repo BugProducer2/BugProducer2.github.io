@@ -9,6 +9,10 @@ tag:
     - record
 ---
 
+`怪奇物语`
+
+> <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240410191751817.png" alt="image-20240410191751817" style="zoom:33%;" />
+
 `提升英语`
 
 > 主要还是多交流多练习。我刚来澳洲的时候，英语很差，基本就简单的单词+笨拙的手势比划。但是我坚持不断地和老外交流，现在已经可以很流畅地比各种手势了。
