@@ -12,6 +12,13 @@ tag:
 
 ## Movie
 - [ ] 《尽管雪落》：特工和政客之间的爱情故事
+- [x] 《画皮 I & II》
+
+> 我小时候看的时候以为王生爱上了小唯，现在发现似乎不是那么回事。
+>
+> 每个人物的表情，都有故事，需要思考。
+
+- [x] 《白发魔女传》
 
 ## TV Series
 - [x] 《*Heart Stopper*》: two boys fell in love, LGBT
@@ -19,12 +26,14 @@ tag:
 - [ ] 《办公室》 喜剧
 - [ ] 《South Park》口语。
 - [ ] 《The Power》
-- [ ] 《环形物语》
+- [x] 《环形物语｜ tales from the loop》
 
 > 每集都是一个主题的小故事，
 > 包含了例如时空穿越，身体互换，暂停时间很多元素
 >
 > Episode 1: a lost girl
+>
+> Episode 2: 两个男生交换身体。OK 我看不下去了。
 
 - [ ] 《**Fresh Off the Boat**》
 
@@ -50,6 +59,9 @@ tag:
 - [ ] 《不良执念清除师》
 - [ ] 《不够善良的我们》
 - [ ] 《爱情盲选》瑞典版 综艺
+- [ ] 《空手道少年》
+- [ ] 英文版的成龙历险记
+- [ ] 公寓大楼里的谋杀案
 
 
 
@@ -60,6 +72,9 @@ tag:
 > “RUC哲学与认知”微信公众号平台，有相关的讲座回放与讲座文稿
 
 
+
+- [ ] [彭老师：how to be top phd](https://github.com/pengsida/learning_research)
+- [ ] 法语 顾贝艺
 
 ## Books
 
@@ -83,6 +98,8 @@ tag:
 - [ ] 《论自由》孟凡礼
 - [ ] 《人的行动》目前最好的译本是台湾的五南出版的谢宗林的译本，
 - [ ] 《人经国》我读的是浙大出版社的多人合译本
+- [ ] 《历史的先声》
+- [ ] 《wired things customers say in booksotres》
 
 
 
@@ -110,6 +127,15 @@ tag:
 - [ ] 末日乐园
 - [ ] 甜美的命运
 - [ ] 这是我们的日常（哈尔同人 拷贝
+- [x] 拯救哥哥大作战 快穿（主角可爱，但好脸谱
+- [x] 在选秀奋斗的我总被迫修罗场
+- [x] 系统总在坑我功德
+- [ ] 酒千殇
+- [ ] 渣男自救日常
+
+> 看不下去一点呢。
+
+
 
 ![image-20240407143659945](https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240407143659945.png)
 

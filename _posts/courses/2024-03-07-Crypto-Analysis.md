@@ -21,7 +21,7 @@ tag:
 
 需要换源自己的git仓库
 
-```
+```bash
 git remote rm origin
 git remote add origin git@gitee.com:bbeehappy-time/cryptographic-experiments.git   
 git push origin master  
@@ -31,7 +31,7 @@ git push origin master
 
 被fork的仓库更新了
 
-```
+```bash
 git remote add upstream http...
 git fetch upstream
 git merge upstream/master
@@ -39,9 +39,18 @@ git merge upstream/master
 
 
 
+本地更新了，如何merge upstream
+
+```bash
+git clean -f -d	#force, also includes directory
+git merge upstream/master
+```
+
+
+
 github被拒绝
 
-```
+```bash
 cd ..
 cd deps/
 ls
@@ -81,3 +90,26 @@ skinny & AES 比较
 线性分析的**基础**：轮的独立性假设
 
 路线的列对称指的是输入输出掩码都可以按照列的方向移动且是对应的
+
+
+
+
+
+## Week 5
+
+### Cube attack
+
+#### offline phase
+
+> 寻找合适的cube，遍历所有cube的可能，因为cube项的系数是关于`k0...k79`的表达式，所以所有cube项异或的结果是这个表达式的值。
+>
+> 通过多个k，我们求解出这个表达式的系数。
+
+####online phase
+
+> 遍历cube项，向oracle提问，得到加密的结果。
+>
+> 因为offline阶段已经求出了表达式的系数，接下来只需把加密的结果异或，就能得到一个关于真正密钥`k0...k79`的方程。
+>
+> 解这个方程即可。
+
