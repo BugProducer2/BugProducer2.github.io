@@ -3,11 +3,33 @@ title: ' Jokes'
 subtitle: 'happy every day'
 layout: post
 date: 2023-12-31
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/bg-cute-cat.jpeg"
 catalog: true
 tag: 
     - record
 ---
+
+`画课本`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/1040g2h0311hj19ao6a004a5o8aj3egllk1qh5e0!nd_whgt34_webp_wm_1" alt="img" style="zoom:33%;" />
+
+`迷信`
+
+> hu帮我看vscode的一个调试报错。
+>
+> 怎么看都没有错误。
+>
+> 于是hu一边说“我不想这么迷信的”，一边把include的库换了一下顺序。
+
+`什么是帅哥`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/IMG_4564.jpeg" alt="IMG_4564" style="zoom:25%;" />
+
+`错觉`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/IMG_4578.jpeg" alt="IMG_4578" style="zoom:25%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/IMG_4577.jpeg" alt="IMG_4577" style="zoom:25%;" />
 
 `怪奇物语`
 

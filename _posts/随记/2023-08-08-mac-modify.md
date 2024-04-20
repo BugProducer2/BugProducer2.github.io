@@ -10,6 +10,57 @@ tag:
     - record
 ---
 
+## 2024-4-18
+
+1. `brew install tree`
+
+```bash
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+```
+
+
+
+2. `问题`：直接编译`keyrecovery4.cpp`文件，会报错如下：
+
+```bash
+  ld: Undefined symbols:
+    partially_decrypt(unsigned char*, unsigned char*), referenced from:
+        distinguisher_1(unsigned char*, unsigned char*, std::__1::set<int, std::__1::less<int>, std::__1::allocator<int>>&) in recover-bb342d.o
+        distinguisher_1(unsigned char*, unsigned char*, std::__1::set<int, std::__1::less<int>, std::__1::allocator<int>>&) in recover-bb342d.o
+  clang: error: linker command failed with exit code 1 (use -v to see invocation)
+```
+
+  文件的tree如下：
+```bash
+$ tree -a
+.
+├── .vscode
+│   └── settings.json
+├── SmallAES.cpp
+├── SmallAES.h
+├── keyrecovery4
+└── keyrecovery4.cpp
+
+2 directories, 5 files
+```
+
+
+
+> 经过一些迷信的测试之后，可能是ld 缓存没有更新导致的。（下次出现这个问题的时候重新试试看。。。
+
+```bash
+update_dyld_shared_cache
+```
+
+
+
+> [vscode](https://blog.csdn.net/qq_45488242/article/details/128414756)
+>
+> [reference](https://blog.csdn.net/qq_33973359/article/details/105720511)
+
+
+
 ### 2024-4-10
 
 1. 为vscode增加了copilot

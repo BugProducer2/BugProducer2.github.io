@@ -39,3 +39,8 @@ A[toilet paper] -->B(paper towels)
 > these things can get hell intense.
 >
 
+
+
+## expression
+
+> choice paralysis
