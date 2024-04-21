@@ -20,6 +20,13 @@ tag:
 
 （95%的方向）
 
+| 简称              | 全称                                 | 简介                                                         | 时间                        |
+| ----------------- | ------------------------------------ | ------------------------------------------------------------ | --------------------------- |
+| Oakland           | IEEE Symposium on Security & Privacy | 以应用型为主，对理论性的文章尤其crypto-flavor的文章非常排斥。 | 上一年11月截稿，次年5月开会 |
+| CCS               | ACM SIGSAC 年会                      | 该会宣称只接受practical papers，然而事实上却是安全方面最diversified的会议，从纯粹密码学的文章到非常应用性的文章都有。传统上该会议的politics比较严重 | 同上                        |
+| CRYPTO，EUROCRYPT |                                      | IACR主办                                                     |                             |
+| USENIX Security   |                                      | USENIX是systems research方面的重要组织，主办了systems方面的若干重要会议，如OSDI（操作系统的第二会议）等。USENIX Security Symposium则是systems security的著名会议，文章基本陷于hardcore systems类型。 | 2月截稿 8月开会             |
+
 `安全四大顶会`：**ACM CCS**、**USENIX SECURITY、IEEE S&P、NDSS**
 
 `密码三大顶会`：**Crypto、EUROCRYPT、ASIACRYPT**

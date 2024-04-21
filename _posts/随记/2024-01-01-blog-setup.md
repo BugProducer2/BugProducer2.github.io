@@ -18,6 +18,12 @@ tags:
 
 1. `bundle exec jekyll serve -l`
 
+
+
+## 2024-4-10 [用md画图](https://typorachina.com/guide/quick-start/draw-diagrams-with-markdown.html)
+
+
+
 ### 2024-4-7（github 学生认证
 
 `踩坑1`：jpg提交之后还在原界面
