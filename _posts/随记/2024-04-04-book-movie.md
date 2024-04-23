@@ -75,6 +75,8 @@ tag:
 
 - [ ] [彭老师：how to be top phd](https://github.com/pengsida/learning_research)
 - [ ] 法语 顾贝艺
+- [ ] [袁老师讲历史](https://www.youtube.com/watch?v=QwKSdRy57BA)
+- [ ] [密码学](http://staff.ustc.edu.cn/~mfy/crypto.htm)
 
 ## Books
 
@@ -123,6 +125,7 @@ tag:
 - [x] 女寝大逃亡
 - [ ] 请勿观赏 
 - [ ] 隐藏怪诞
+- [x] 女配难当（有点小学生文笔。。。
 - [x] 末日乐园
 
 > 太长了。可以用来打发时间
@@ -142,6 +145,8 @@ tag:
 ![image-20240407143659945](https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240407143659945.png)
 
 <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240407143728481.png" alt="image-20240407143728481" style="zoom:33%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240422123614057.png" alt="image-20240422123614057" style="zoom: 67%;" />
 
 ## redBook
 

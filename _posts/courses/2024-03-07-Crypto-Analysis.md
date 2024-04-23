@@ -113,3 +113,26 @@ skinny & AES 比较
 >
 > 解这个方程即可。
 
+
+
+Q: 单项式预测看不懂
+
+## Week 6
+
+### 不可能差分
+
+#### Branch Number
+
+$$
+BN = min(WT(X)+WT(Y)) for\  all \ Y = F(X)
+$$
+
+
+>`eg`:AES的mix column，对于一列，输入异或有一个1，输出异或为4，则BN大于等于5.
+
+#### 活跃
+
+> 输入差分不为0
+
+
+
