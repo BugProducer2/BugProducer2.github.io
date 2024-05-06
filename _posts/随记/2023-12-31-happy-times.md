@@ -9,6 +9,12 @@ tag:
     - record
 ---
 
+`cultural shock`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240426222952510.png" alt="image-20240426222952510" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240426223007646.png" alt="image-20240426223007646" style="zoom:50%;" />
+
 `画课本`
 
 <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/1040g2h0311hj19ao6a004a5o8aj3egllk1qh5e0!nd_whgt34_webp_wm_1" alt="img" style="zoom:33%;" />
