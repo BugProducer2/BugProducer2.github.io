@@ -23,6 +23,7 @@ tag:
 ## TV Series
 - [x] 《*Heart Stopper*》: two boys fell in love, LGBT
 - [x] 《怪奇物语》（emmm 只喜欢第一季。
+- [ ] 群星
 - [ ] 《办公室》 喜剧
 - [ ] 《South Park》口语。
 - [ ] 《The Power》
@@ -77,6 +78,7 @@ tag:
 - [ ] 法语 顾贝艺
 - [ ] [袁老师讲历史](https://www.youtube.com/watch?v=QwKSdRy57BA)
 - [ ] [密码学](http://staff.ustc.edu.cn/~mfy/crypto.htm)
+- [ ] 圆圆的日语教室（B站）
 
 ## Books
 
@@ -102,6 +104,8 @@ tag:
 - [ ] 《人经国》我读的是浙大出版社的多人合译本
 - [ ] 《wired things customers say in booksotres》
 
+$C^{\bot}$
+
 
 
 ## Novels
@@ -118,6 +122,15 @@ tag:
 - [x] 虐文的npc消极怠工了（只有主角处理原本的情节的part好玩，纯纯的小甜文已经不是很能吸引我了。。
 - [x] 不许没收我的人格（主角的奇妙操作让人倍感神奇，但我还是看不下去
 - [ ] goodnovel和dreame（外国狗血小说
+- [ ] 无人杀我
+- [ ] 小游园
+- [ ] 《维持女配的尊严》
+- [ ] 《在夏夜熙攘之前》
+- [ ] 你不像任何人
+- [ ] 没有人像你
+- [ ] 天知地知 我知而已
+- [ ] 很多颜色的你
+- [ ] 她的名字叫玛丽方
 - [ ] 装纯
 - [ ] 凤穿残汉
 - [ ] 早安，三国打工人

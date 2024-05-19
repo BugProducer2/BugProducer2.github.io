@@ -9,6 +9,24 @@ tag:
     - record
 ---
 
+`书`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240517225737162.png" alt="image-20240517225737162" style="zoom:50%;" />
+
+`漫画演变`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240517134720929.png" alt="image-20240517134720929" style="zoom: 33%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240517165704986.png" alt="image-20240517165704986" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240517135025480.png" alt="image-20240517135025480" style="zoom: 33%;" />
+
+`边界感`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/1040g2h0312hiqc2f7o705ogffvo8c9q28m6vt6g!nd_whgt34_webp_wm_1" alt="img" style="zoom:25%;" />
+
+>  中午和小王吃饭，结果遇到了d老师，他和一个女生面对面吃饭，脚就是这么摆的。
+
 `cultural shock`
 
 <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240426222952510.png" alt="image-20240426222952510" style="zoom:50%;" />
