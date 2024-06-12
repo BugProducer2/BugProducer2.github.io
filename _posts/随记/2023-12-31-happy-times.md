@@ -9,6 +9,24 @@ tag:
     - record
 ---
 
+'妖精'
+
+> **为什么中国古代传说没有猫精、猫妖？**
+>
+> 不是有白猫洗洁精吗？
+
+`小众`
+
+>  邻居装修的时候心烦于是和电钻一起叫
+
+`cat`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240608223020343.png" alt="image-20240608223020343" style="zoom:33%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240530214922952.png" alt="image-20240530214922952" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240603233832846.png" alt="image-20240603233832846" style="zoom:33%;" />
+
 `书`
 
 <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240517225737162.png" alt="image-20240517225737162" style="zoom:50%;" />
@@ -47,7 +65,7 @@ tag:
 
 `什么是帅哥`
 
-<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/IMG_4564.jpeg" alt="IMG_4564" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/IMG_4564.jpeg" alt="IMG_4564" style="zoom: 50%;" />
 
 `错觉`
 
@@ -123,6 +141,31 @@ tag:
 > <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240410172948015.png" alt="image-20240410172948015" style="zoom:25%;" />
 >
 > 正经：哈哈您太谦虚啦，咱们都是正常长相，人贵内在，论才能您可是我的榜样呀
+
+> 和平时不苟言笑的大领导出差，遇到了乙方热情接待，所有人喝的醉醺醺的，除了我因为感冒喝椰奶
+>
+> 回来的车上一片死寂，旁边的领导突然问我，你知道为何我一直不愿意来这出差吗，，因为那个人在这座城市
+>
+> 我转过头，发现他脸上的两行清泪在月光下闪着微光
+>
+> 我心想这是什么惊世骇俗的八卦，我该怎么办，我要装醉吗，但我喝的是椰奶，该死我为什么要感冒
+>
+> 领导越哭声音越大，突然掏出手机开始打字
+>
+> 然后不晓得他摁了什么键，siri把他打的字念出来了，于是我听到Siri字正腔圆的说：如果时光倒流，我们可以一生一世吗
+>
+> 领导一气之下疯狂摁手机，一边大喊烂手机shift，然后他突然转向了我：小鱼，我的手机烂了，你能否为我放一首歌曲
+>
+> 我：好的领导您想听什么歌曲
+> 他：我想听肖邦的夜曲
+> 我搜肖邦的夜曲，出来是周杰伦
+> 然后我继续搜肖邦-夜曲，发现需要付费
+>
+> 我很尴尬，我说领导麻烦您等下，我充个会员，领导说不必，换一曲柴可夫斯基的，杰奎琳的眼泪
+>
+> 然后在剩下的路途中，我举着手机像dj一样放歌，车子在领导伴随着杰奎琳的眼泪的嚎啕大哭声中前进
+>
+> 回家以后我一脸疲惫，我妈问我怎么了，我说没什么，我的仕途要结束了
 
 `有味道`
 

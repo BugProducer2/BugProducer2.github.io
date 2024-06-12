@@ -10,6 +10,41 @@ tag:
     - record
 ---
 
+```python
+"""去除iBooks摘抄引用"""
+import sys
+import re
+content = ''
+for t in sys.stdin:
+	content += t
+p = re.compile('“([\s\S]*)”[\n]*摘录来自')
+if p.search(content) is not None:
+	copy = p.search(content).group(1)
+	if copy:
+		print(copy)
+else:
+	print(content)
+```
+
+
+
+```python
+import sys
+import re
+content = ''
+#从stdin里读取内容
+for t in sys.stdin:
+   content += t
+#利用正则表达式来查找原文并去除添加的引用信息
+p = re.compile('“(.+)”\n\nExcerpt From')
+copy = p.search(content).group(1)
+#用print函数把结果传回Automator
+if copy:
+    print(copy)
+```
+
+
+
 ## 2024-4-18
 
 1. `brew install tree`
