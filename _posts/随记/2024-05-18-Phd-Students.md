@@ -104,3 +104,40 @@ tag:
 我一直都觉得后悔事在欺负以前的自己。请不要忘记，当初做决定的时候，很多时候你已经根据那时的情况作出最好的选择了。即使事后看觉得但是的决定很奇怪、很不好，但那时的你已经是被压力逼到走投无路的状态了。不要站在上帝视角去严厉地责备以前可怜的自己。
 
 人生没有后悔，当初的选择一定是当时认知下自认最好的选择。如果当时的选择现在看是错误的，正说明社会的经历使我有了更理性的认知，这也是我换工作的根因，去更好的平台迎接更好的自己
+
+
+
+## intern 要求
+
+[cryptography](https://docs.google.com/document/d/1e6dNtdTmHWmv2U6C407MV5N_wS5aX3LAJ6K_T6bShkE/edit)
+
+Here’s what will contribute to making this a successful experience.
+
+*ProTip*: you might feel like you don’t match 100% of the requirements. `We’ve all been there, myself included. `Don’t let that stop you, because in my experience it predominantly stops talented underrepresented people who lack the confidence but would have been great in the position.
+
+You’re self-directed, and can make progress without constant supervision. You read the documentation and search the web to learn more, but also ask questions when you don’t understand something. (Also check out [What we look for in Recursers](https://www.recurse.com/what-we-look-for). This is an internship, so not everything applies, but it might give you an idea of what I mean.)
+
+At least some of the projects above sound exciting to you, or you want to propose your own in my areas of expertise.
+
+You’re familiar with: git, GitHub, the basics of cryptography, and the Go programming language. Maybe you also have experience with some of: code review processes, package managers, contributing to open source projects, testing, and deploying code.
+
+You can engage with an open source community, and respectfully handle disagreements.
+
+You can communicate effectively in English, and over Slack and email.I value diversity and welcome all applications. I strongly encourage applications from traditionally underrepresented groups in technology, including women and gender nonconforming people, and BIPOC individuals. 
+
+## Capability
+
+- [ ] basic knowledge in data structure, algo
+- [ ] concept in OOP
+- [ ] how to write good test code
+- [ ] git 
+- [ ] 设计模式
+- [ ] 重构
+
+
+
+
+
+线性代数基本问题：
+
+满秩为什么一定行列式不等于0为什么一定可逆？
