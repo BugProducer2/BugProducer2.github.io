@@ -10,6 +10,131 @@ tags:
     - 随记
 ---
 
+## Fri Jun 14 (Final Exam)
+
+### Code & IT
+
+#### 复习资料
+
+> - [ ] IT textbook
+> - [ ] handwriting IT
+> - [ ] nb IT 练习题答案（5次）
+> - [ ] nb 部分收藏的Code PPT页
+> - [ ] printing PPT
+> - [ ] Code练习题答案 打印（6次）
+> - [ ] Code textbook 前四章
+
+#### 复习时间 & 复习安排
+
+> 18 days left
+
+*Phase I : Code*（June 14）
+
+- [ ] PPT printing 过一遍
+- [ ] 作业看一遍解答，标记错误题目
+- [ ] 看一遍课本前四章
+
+*Phase II : IT*（June 23）
+
+- [ ] 笔记看一遍，对照笔记查找课本
+- [ ] 作业题看一遍解答，标记错误题目
+
+*Phase III : 考前*（June 3）
+
+- [ ] 过一遍标记的题目和知识点
+
+
+### Abstract Algebra
+
+#### 复习资料
+
+> - [ ] textbook
+> - [ ] printing PPT
+> - [ ] 作业
+
+#### 复习时间 & 复习安排
+
+> 16 days left
+
+*Phase I : ppt & 作业*
+
+- [ ] 群
+  - [ ] PPT & 对应课本，标记易错
+  - [ ] 作业，标记需要再看
+- [ ] 环
+  - [ ] PPT & 对应课本，标记需要再看
+  - [ ]  作业，标记需要再看
+- [ ] 期中考，标记需要再看
+- [ ] Field 10'，标记需要再看
+
+*Phase II : June 29*
+
+- [ ] 作业再看
+- [ ] print再看
+- [ ] 期中考再看
+
+
+
+### 网络安全法 
+
+#### 复习资料 & 复习时间
+
+> 打印ppt，提纲 & 13 days
+
+#### 复习安排
+
+*Phase I : ～June 25*
+
+- [ ] 打印ppt
+- [ ] 安琪？
+- [ ] 作业
+
+*Phase II : June 26*
+
+
+
+### 计算机安全 
+
+#### 复习资料 & 复习时间
+
+> 13 days left;
+>
+> 题库，ppt，期中考，作业1
+
+#### 复习安排
+
+*Phase I : June 24*
+
+- [ ] PPT，重点整理成一个word
+- [ ] 题库
+
+*Phase II : *
+
+
+
+
+
+### 习思想  
+
+#### 复习资料 & 复习时间
+
+> 课本 & 手写提纲；20 days left
+
+#### 复习安排
+
+*Phase I : 按章节复习(每天1章节，PPT，归结到提纲，对应题目)*
+
+- [ ] completed:currently none
+- [ ] uncompleted
+
+*Phase II : 考前（July 2）*
+
+- [ ] 过一遍手写提纲
+- [ ] 过一遍23年卷
+- [ ] 过一遍错题
+
+
+
 ## Sun May 26
 
 ### Q & A
