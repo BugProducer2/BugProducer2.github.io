@@ -26,7 +26,7 @@ tags:
 
 #### 复习时间 & 复习安排
 
-> 17 days left
+> 16 days left
 
 *Phase I : Code*（June 14）
 
@@ -54,7 +54,7 @@ tags:
 
 #### 复习时间 & 复习安排
 
-> 15 days left
+> 13 days left
 
 *Phase I : ppt & 作业*
 
@@ -87,7 +87,7 @@ tags:
 
 #### 复习资料 & 复习时间
 
-> 打印ppt，提纲 & 12 days
+> 打印ppt，提纲 & 11 days
 
 #### 复习安排
 
@@ -105,9 +105,13 @@ tags:
 
 #### 复习资料 & 复习时间
 
-> 12 days left;
+> 11 days left;
 >
 > 题库，ppt，期中考，作业1
+>
+> https://www.ap5u.com/thread-179252-1-1.html
+> https://www.taodocs.com/p-461095210.html
+> https://max.book118.com/html/2020/1129/5233242030003033.shtm
 
 #### 复习安排
 
@@ -132,7 +136,7 @@ tags:
 
 #### 复习资料 & 复习时间
 
-> 课本 & 手写提纲；19 days left
+> 课本 & 手写提纲；18 days left
 >
 > [习思想](https://mp.weixin.qq.com/s/XFCRyo_FDGUTlww2I7ep6A)
 > [知识点2](https://mp.weixin.qq.com/s/qv2o61mNdWUArYTtjWiWcg)
