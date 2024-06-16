@@ -19,6 +19,7 @@ tag:
 > 每个人物的表情，都有故事，需要思考。
 
 - [x] 《白发魔女传》
+- [ ] 梦之安魂曲
 
 ## TV Series
 - [x] 《*Heart Stopper*》: two boys fell in love, LGBT
