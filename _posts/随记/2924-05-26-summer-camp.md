@@ -26,7 +26,7 @@ tags:
 
 #### 复习时间 & 复习安排
 
-> 18 days left
+> 17 days left
 
 *Phase I : Code*（June 14）
 
@@ -54,18 +54,18 @@ tags:
 
 #### 复习时间 & 复习安排
 
-> 16 days left
+> 15 days left
 
 *Phase I : ppt & 作业*
 
-- [ ] 群
+- [ ] 群(7节)
   - [ ] PPT & 对应课本，标记易错
   - [ ] 作业，标记需要再看
-- [ ] 环
+- [ ] 环（6节）
   - [ ] PPT & 对应课本，标记需要再看
   - [ ]  作业，标记需要再看
 - [ ] 期中考，标记需要再看
-- [ ] Field 10'，标记需要再看
+- [ ] Field 10'，标记需要再看（3节）
 
 *Phase II : June 29*
 
@@ -77,9 +77,17 @@ tags:
 
 ### 网络安全法 
 
+知识回顾：（1）法条（2）重点：网法，数据法，个法（3）最后一节课上了密码，商密
+
+考试题型：单选，多选，判断（待定，因为卷子没出完），简答
+
+考试内容：法条，案例
+
+期末考试40%
+
 #### 复习资料 & 复习时间
 
-> 打印ppt，提纲 & 13 days
+> 打印ppt，提纲 & 12 days
 
 #### 复习安排
 
@@ -97,7 +105,7 @@ tags:
 
 #### 复习资料 & 复习时间
 
-> 13 days left;
+> 12 days left;
 >
 > 题库，ppt，期中考，作业1
 
@@ -105,7 +113,13 @@ tags:
 
 *Phase I : June 24*
 
-- [ ] PPT，重点整理成一个word
+- [ ] PPT，重点整理成一个word（10个）
+  - [ ] 综述（1+1）
+  - [ ] 认证（1+1）
+  - [ ] 实体安全
+  - [ ] 操作系统安全（1+1）
+  - [ ] 安全技术
+  - [ ] 计算机病毒（1+1）
 - [ ] 题库
 
 *Phase II : *
@@ -118,13 +132,17 @@ tags:
 
 #### 复习资料 & 复习时间
 
-> 课本 & 手写提纲；20 days left
+> 课本 & 手写提纲；19 days left
+>
+> [习思想](https://mp.weixin.qq.com/s/XFCRyo_FDGUTlww2I7ep6A)
+> [知识点2](https://mp.weixin.qq.com/s/qv2o61mNdWUArYTtjWiWcg)
 
 #### 复习安排
 
 *Phase I : 按章节复习(每天1章节，PPT，归结到提纲，对应题目)*
 
 - [ ] completed:currently none
+  - [ ] 导论，
 - [ ] uncompleted
 
 *Phase II : 考前（July 2）*
