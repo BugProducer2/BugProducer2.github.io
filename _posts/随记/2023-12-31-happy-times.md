@@ -18,6 +18,8 @@ tag:
 `小众`
 
 >  邻居装修的时候心烦于是和电钻一起叫
+>
+>  <img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240620225333391.png" alt="image-20240620225333391" style="zoom:67%;" />
 
 `cat`
 
