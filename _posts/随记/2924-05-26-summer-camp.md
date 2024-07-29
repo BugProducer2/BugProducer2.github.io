@@ -10,13 +10,21 @@ tags:
     - 随记
 ---
 
+## 招聘相关
+
+`美亚柏科`
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240727202857299.png" alt="image-20240727202857299" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240727203000548.png" alt="image-20240727203000548" style="zoom: 25%;" />
+
 ## Fri Jun 14 (Final Exam)
 
 ### Code & IT
 
 遗留问题：
 
-Ploktin Bound 渐进 第二个证明；渐进GV bound 证明
+Ploktin Bound 渐进 第二个证明；渐进GV bound 证明 AEP作业 
 
 #### 我认为的必考题
 
@@ -25,20 +33,24 @@ Ploktin Bound 渐进 第二个证明；渐进GV bound 证明
 3. 给一个标准型的生成矩阵，写出对应的校验矩阵。（或者反过来）
 4. Hamming code的纠错。
 5. SImplex code、Hadamard code最小距离的证明
-6. 给订一个RS code的值，让你译码。
-7. 写出一个RM code的生成矩阵。
+6. 几个界的定义
+7. 经典概率证明方法：Proof of asymptotic Hamming Bound
 8. MDS code四个性质的证明
-9. Propagation rules的证明。
-10. 信息论作业6
+9. RS code 生成矩阵，校验矩阵，证明对偶码
+10. 给订一个RS code的值，让你译码。
+11. 写出一个RM code的生成矩阵。                  
+12. Propagation rules的证明。
+13. 信息论作业6
+14. AEP一定两道作业题中出一题 
 
 #### 复习资料
 
 > - [x] IT textbook
-> - [ ] handwriting IT
-> - [ ] nb IT 练习题答案（5次）
-> - [ ] nb 部分收藏的Code PPT页
+> - [x] handwriting IT
+> - [x] nb IT 练习题答案（5次）
+> - [x] nb 部分收藏的Code PPT页
 > - [x] printing PPT
-> - [ ] Code练习题答案 打印（6次）
+> - [x] Code练习题答案 打印（6次）
 > - [x] Code textbook 前四章
 
 #### 复习时间 & 复习安排
@@ -48,17 +60,17 @@ Ploktin Bound 渐进 第二个证明；渐进GV bound 证明
 *Phase I : Code*（June 14）
 
 - [x] PPT printing 过一遍
-- [ ] 作业看一遍解答，标记错误题目
+- [x] 作业看一遍解答，标记错误题目
 - [x] 看一遍课本前四章
 
 *Phase II : IT*（June 23）
 
-- [ ] 笔记看一遍，对照笔记查找课本
-- [ ] 作业题看一遍解答，标记错误题目
+- [x] 笔记看一遍，对照笔记查找课本
+- [x] 作业题看一遍解答，标记错误题目
 
 *Phase III : 考前*（June 3）
 
-- [ ] 过一遍标记的题目和知识点
+- [x] 过一遍标记的题目和知识点
 
 已经考过的题目：2-12 ，5.28，
 
@@ -74,7 +86,7 @@ Ploktin Bound 渐进 第二个证明；渐进GV bound 证明
 
 同构 同态基本定理
 
-换的定义 理想的定义，理想的判定条件；不考CRT
+环的定义 理想的定义，理想的判定条件；不考CRT
 
 唯一因子 & 欧几里得环 & 主理想整环 的 定义 内容 关系 
 
@@ -200,6 +212,14 @@ F[x] 求最大公营子，表现成组合，
 - [ ] 过一遍手写提纲
 - [ ] 过一遍23年卷
 - [ ] 过一遍错题
+
+
+
+中国特色社会主义的本质要求是共同富裕
+
+
+
+中国特色社会主义的本质特征是中共领导
 
 
 

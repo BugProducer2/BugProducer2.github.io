@@ -20,6 +20,8 @@ tag:
 
 - [x] 《白发魔女传》
 - [ ] 梦之安魂曲
+- [ ] The year I started masturbating"
+- [ ] 《我的错误》
 
 ## TV Series
 - [x] 《*Heart Stopper*》: two boys fell in love, LGBT
@@ -160,6 +162,7 @@ $C^{\bot}$
 - [x] 系统总在坑我功德
 - [ ] 酒千殇
 - [x] 《诡舍》（太长了）
+- [ ] 《这个膝盖我收下了》
 - [ ] 渣男自救日常
 
 > 看不下去一点呢。
