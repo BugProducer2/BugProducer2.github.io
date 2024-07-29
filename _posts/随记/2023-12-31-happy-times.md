@@ -9,6 +9,22 @@ tag:
     - record
 ---
 
+'interesting'
+
+<img src="../../../../../Library/Application%20Support/typora-user-images/image-20240703104337629.png" alt="image-20240703104337629" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104404259.png" alt="image-20240703104404259" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104424549.png" alt="image-20240703104424549" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104439329.png" alt="image-20240703104439329" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104457064.png" alt="image-20240703104457064" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104508633.png" alt="image-20240703104508633" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/BugProducer2/PicBed/main/img/image-20240703104523047.png" alt="image-20240703104523047" style="zoom:50%;" />
+
 '妖精'
 
 > **为什么中国古代传说没有猫精、猫妖？**
@@ -91,6 +107,8 @@ tag:
 
 > 之前某任主管把这习惯带到生活中，被家里人说过很多次都改不了，有次他女儿迷路了，打电话让他去救（应该是2010年左右），他嘴一秃噜：你现在的痛点是什么？他女儿气疯了：我现在迷路了你居然问我痛点是什么！！！
 
+## 恋爱
+
 `冷脸洗内裤`
 
 > 前提是昨天他单方面闹矛盾
@@ -99,7 +117,15 @@ tag:
 > 我问他既然在视频，为什么不说话要打字
 > 他憋了好久说：文字比较没有温度
 
+`偷亲`
 
+我和初恋在公交车上（暧昧中），他比我早一站下车，我想趁他下车前一秒亲他一下，让他回味一晚上，结果记错了，提前一站亲的，俩人就这么站了一站路。挺尴尬的。
+
+
+
+--真的会有总裁喜欢上平凡的姑娘吗？
+
+--只有党才会精准扶贫	
 
 `My heart`
 
